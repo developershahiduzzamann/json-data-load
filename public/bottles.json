@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "brand": "HydroPeak",
+    "capacity": "1000ml",
+    "material": "Stainless Steel",
+    "features": {
+      "isHot": true,
+      "isCold": true,
+      "insulation": "Double Wall Vacuum"
+    },
+    "hotRetention": "12h",
+    "coldRetention": "24h",
+    "price": 35.99,
+    "imageUrl": "https://picsum.photos/seed/bottle1/400/400"
+  },
+  {
+    "id": 2,
+    "brand": "ClearFlow",
+    "capacity": "750ml",
+    "material": "BPA-Free Plastic",
+    "features": {
+      "isHot": false,
+      "isCold": true,
+      "insulation": "Single Wall"
+    },
+    "hotRetention": "0h",
+    "coldRetention": "2h",
+    "price": 12.50,
+    "imageUrl": "https://via.placeholder.com/400?text=ClearFlow+Cold+Only"
+  },
+  {
+    "id": 3,
+    "brand": "TitanGrip",
+    "capacity": "2000ml",
+    "material": "Hard Plastic",
+    "features": {
+      "isHot": false,
+      "isCold": true,
+      "insulation": "Single Wall"
+    },
+    "hotRetention": "0h",
+    "coldRetention": "4h",
+    "price": 28.00,
+    "imageUrl": "https://picsum.photos/seed/bottle3/400/400"
+  },
+  {
+    "id": 4,
+    "brand": "ArcticChill",
+    "capacity": "500ml",
+    "material": "Stainless Steel",
+    "features": {
+      "isHot": true,
+      "isCold": true,
+      "insulation": "Triple Wall"
+    },
+    "hotRetention": "24h",
+    "coldRetention": "48h",
+    "price": 22.99,
+    "imageUrl": "https://via.placeholder.com/400?text=ArcticChill+Extreme"
+  },
+  {
+    "id": 5,
+    "brand": "EcoGlass",
+    "capacity": "600ml",
+    "material": "Borosilicate Glass",
+    "features": {
+      "isHot": true,
+      "isCold": true,
+      "insulation": "Sleeve Only"
+    },
+    "hotRetention": "2h",
+    "coldRetention": "2h",
+    "price": 19.50,
+    "imageUrl": "https://picsum.photos/seed/bottle5/400/400"
+  },
+  {
+    "id": 6,
+    "brand": "YetiMonster",
+    "capacity": "1500ml",
+    "material": "Stainless Steel",
+    "features": {
+      "isHot": true,
+      "isCold": true,
+      "insulation": "Double Wall Vacuum"
+    },
+    "hotRetention": "12h",
+    "coldRetention": "24h",
+    "price": 45.00,
+    "imageUrl": "https://via.placeholder.com/400?text=YetiMonster+Large"
+  },
+  {
+    "id": 7,
+    "brand": "SimpleSip",
+    "capacity": "400ml",
+    "material": "Aluminum",
+    "features": {
+      "isHot": false,
+      "isCold": true,
+      "insulation": "None"
+    },
+    "hotRetention": "0h",
+    "coldRetention": "1h",
+    "price": 9.99,
+    "imageUrl": "https://picsum.photos/seed/bottle7/400/400"
+  },
+  {
+    "id": 8,
+    "brand": "PureH2O",
+    "capacity": "750ml",
+    "material": "Glass",
+    "features": {
+      "isHot": true,
+      "isCold": true,
+      "insulation": "None"
+    },
+    "hotRetention": "1h",
+    "coldRetention": "1h",
+    "price": 24.00,
+    "imageUrl": "https://via.placeholder.com/400?text=PureH2O+Glass"
+  },
+  {
+    "id": 9,
+    "brand": "MountainTough",
+    "capacity": "1200ml",
+    "material": "Stainless Steel",
+    "features": {
+      "isHot": true,
+      "isCold": true,
+      "insulation": "Double Wall"
+    },
+    "hotRetention": "18h",
+    "coldRetention": "36h",
+    "price": 39.99,
+    "imageUrl": "https://picsum.photos/seed/bottle9/400/400"
+  },
+  {
+    "id": 10,
+    "brand": "KidSafe",
+    "capacity": "350ml",
+    "material": "Silicone",
+    "features": {
+      "isHot": true,
+      "isCold": true,
+      "insulation": "Single Wall"
+    },
+    "hotRetention": "3h",
+    "coldRetention": "6h",
+    "price": 14.95,
+    "imageUrl": "https://via.placeholder.com/400?text=KidSafe+Silicone"
+  }
+]
