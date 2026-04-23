@@ -12,7 +12,7 @@
     "hotRetention": "12h",
     "coldRetention": "24h",
     "price": 35.99,
-    "imageUrl": "https://picsum.photos/seed/bottle1/400/400"
+    "imageUrl": "https://i.ibb.co.com/ZznxfNCR/premium-photo-1681154819686-43fcc4dc4df3.avif"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "hotRetention": "0h",
     "coldRetention": "2h",
     "price": 12.50,
-    "imageUrl": "https://via.placeholder.com/400?text=ClearFlow+Cold+Only"
+    "imageUrl": "https://i.ibb.co.com/BVtD4Fpw/photo-1602143407151-7111542de6e8.avif"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
     "hotRetention": "0h",
     "coldRetention": "4h",
     "price": 28.00,
-    "imageUrl": "https://picsum.photos/seed/bottle3/400/400"
+    "imageUrl": "https://i.ibb.co.com/d0TDq9LS/photo-1544003484-3cd181d17917.avif"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     "hotRetention": "24h",
     "coldRetention": "48h",
     "price": 22.99,
-    "imageUrl": "https://via.placeholder.com/400?text=ArcticChill+Extreme"
+    "imageUrl": "https://i.ibb.co.com/zW85HNFm/photo-1585083969600-495ee7e3604b.avif"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
     "hotRetention": "2h",
     "coldRetention": "2h",
     "price": 19.50,
-    "imageUrl": "https://picsum.photos/seed/bottle5/400/400"
+    "imageUrl": "https://i.ibb.co.com/My8SskJR/photo-1589365278144-c9e705f843ba.avif"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
     "hotRetention": "12h",
     "coldRetention": "24h",
     "price": 45.00,
-    "imageUrl": "https://via.placeholder.com/400?text=YetiMonster+Large"
+    "imageUrl": "https://i.ibb.co.com/1fTZ9yz2/photo-1568395216634-ab1b1e848751.avif"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
     "hotRetention": "0h",
     "coldRetention": "1h",
     "price": 9.99,
-    "imageUrl": "https://picsum.photos/seed/bottle7/400/400"
+    "imageUrl": "https://i.ibb.co.com/nNxCnC6p/photo-1605714312496-01e90cb509cc.avif"
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
     "hotRetention": "1h",
     "coldRetention": "1h",
     "price": 24.00,
-    "imageUrl": "https://via.placeholder.com/400?text=PureH2O+Glass"
+    "imageUrl": "https://i.ibb.co.com/BVF83SHR/photo-1598443053960-0e8608b282fd.avif"
   },
   {
     "id": 9,
@@ -132,7 +132,7 @@
     "hotRetention": "18h",
     "coldRetention": "36h",
     "price": 39.99,
-    "imageUrl": "https://picsum.photos/seed/bottle9/400/400"
+    "imageUrl": "https://i.ibb.co.com/nNt6btdS/photo-1616740540792-3daec604777d.avif"
   },
   {
     "id": 10,
@@ -147,6 +147,6 @@
     "hotRetention": "3h",
     "coldRetention": "6h",
     "price": 14.95,
-    "imageUrl": "https://via.placeholder.com/400?text=KidSafe+Silicone"
+    "imageUrl": "https://i.ibb.co.com/8gLvjpkm/photo-1539402625777-abd3f7f58139.avif"
   }
 ]

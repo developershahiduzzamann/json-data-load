@@ -1,0 +1,21 @@
+.img{
+    height: 400px;
+    width: 300px;
+    object-fit: cover;
+}
+.scart{
+    border: 2px solid blueviolet;
+    padding: 15px;
+    border-radius: 15px;
+}
+.title{
+    display: block;
+    color:#fff;
+}
+.btn{
+    height: 30px;
+    width: 110px;
+    background: blueviolet;
+    padding: 5px;
+    border-radius: 10px;
+}
